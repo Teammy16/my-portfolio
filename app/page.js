@@ -5,7 +5,7 @@ export default function Home() {
     <main className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-red-500 to-blue-500">
       
       {/* Avatar */}
-      <div className="w-80 h-40 mb-1 relative"> 
+      <div className="w-80 h-40 mb- relative"> 
         <Image
           src="/3.png" 
           alt="รูปโปรไฟล์ Adithep"
@@ -17,7 +17,7 @@ export default function Home() {
       
       {/* ชื่อ */}
       <h1 className="text-7xl font-bold text-white mb-4">
-        {<p class="underline">Anuwat Sunthonaekchit</p>} 
+        {<p class="underline">Adithep Sunthonaekchit</p>} 
       </h1>
       
       {/* Tagline */}
