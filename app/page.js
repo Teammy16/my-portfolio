@@ -17,7 +17,7 @@ export default function Home() {
       
       {/* ชื่อ */}
       <h1 className="text-7xl font-bold text-white mb-4">
-        {<p class="underline">Adithep Sunthonaekchit</p>} 
+        {<p class="underline">Anuwat Sunthonaekchit</p>} 
       </h1>
       
       {/* Tagline */}
